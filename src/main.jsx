@@ -5,6 +5,7 @@ import App from './App';
 import './index.css';
 
 // This is the main entry point of the React application.
+// test
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
